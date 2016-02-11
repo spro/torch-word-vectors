@@ -1,0 +1,25 @@
+pretty good yeah great:1
+so good:1
+i think quite good:1
+i think it is great:1
+bad i say awful:0
+bad really bad:0
+it was terrible bad:0
+it sucked:0
+it was bad:0
+it was good:1
+just terrible:0
+it was interesting:1
+so awful bad:0
+i think i hate it:0
+i like it:1
+i love it:1
+i hate it:0
+i don not care for it:0
+just great:1
+really really good:1
+really really bad:0
+this is bad:0
+so awful:0
+really good:1
+so awesome:1
